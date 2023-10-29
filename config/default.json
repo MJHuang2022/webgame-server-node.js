@@ -1,0 +1,19 @@
+{
+  "Http": {
+    "Port": ""
+  },
+  "MongoDB": {
+    "Url": "",
+    "User": "",
+    "Password": ""
+  },
+  "Jwt": {
+    "PrivateKey": ""
+  },
+  "Email": {
+    "Host": "",
+    "Port": "",
+    "User": "",
+    "Password": ""
+  }
+}
